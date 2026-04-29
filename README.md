@@ -1,4 +1,4 @@
-# Anlisis de Tuberculosis con Python
+# Analisis de Tuberculosis con Python
 ## Proyecto de análisis de datos sobre tuberculosis utilizando Python
 
 Este proyecto consiste en el análisis de datos sobre la tuberculosis (TB) utilizando Python, con el objetivo de limpiar, transformar y visualizar información para comprender mejor el comportamiento de esta enfermedad a nivel mundial.
