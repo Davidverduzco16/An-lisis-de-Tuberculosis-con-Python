@@ -8,9 +8,11 @@ Descripción del proyecto
 Se trabajó con datos de casos de tuberculosis y población para analizar la incidencia de la enfermedad por país y año. El estudio permitió identificar patrones importantes relacionados con género, grupo de edad y métodos de diagnóstico, además de observar la evolución de la enfermedad a lo largo del tiempo .
 
 Aspectos analizados en este trabajo:
+
 Casos de tuberculosis por país y año, distribución por género, Método de diagnóstico, Grupo de edad, Tasa de incidencia por cada 100,000 habitantes. 
 
 Fuentes de datos: 
+
 who.csv: Datos de casos de tuberculosis y population.csv: Datos de población por país y año,
 
 Tecnologias que se utilizaron: Python, Pandas, NumPy y Google Colab
