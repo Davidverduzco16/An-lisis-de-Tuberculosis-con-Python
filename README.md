@@ -11,7 +11,7 @@ Se trabajó con datos de casos de tuberculosis y población para analizar la inc
 
 Casos de tuberculosis por país y año, distribución por género, Método de diagnóstico, Grupo de edad, Tasa de incidencia por cada 100,000 habitantes. 
 
-**Fuentes de datos: **
+**Fuentes de datos**
 
 who.csv: Datos de casos de tuberculosis y population.csv: Datos de población por país y año,
 
